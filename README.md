@@ -46,4 +46,9 @@ Where is my iPad Pro ??? 。･ﾟ･(つд`ﾟ)･ﾟ･
 
 3. Final, Run python3.
 
+## Demo
+
+![](https://raw.githubusercontent.com/HeiTang/StraightA_Orders_Notify/main/src/001.png)
+![](https://raw.githubusercontent.com/HeiTang/StraightA_Orders_Notify/main/src/002.png)
+
 
